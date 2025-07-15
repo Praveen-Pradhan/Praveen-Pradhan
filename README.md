@@ -1,22 +1,12 @@
-<h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">Aspiring Software Engineer 🚀 | Grinding hard without a PC 💻❌📱</h3>
+<h1 align="center">💫 About me</h1>
 
----
-
-### 🧠 About Me
-- 💪 I’m an aspiring **Software Engineer** passionate about building things and learning every day.
-- 📱 Currently doing everything on my **phone** using Replit and GitHub mobile.
+- Hi 👋, I'm Praveen,I’m an aspiring **Software Engineer** passionate about building things and learning every day.
 - 🧩 Solved **50+ DSA problems** on **LeetCode** and counting...
 - 🧠 Learning:
   - ✅ C, C++, Python
   - 🧑‍🎨 HTML, CSS, JavaScript
 - 🔄 Constantly exploring **DSA + Web Development** to become industry-ready.
-
----
-
-### 🚀 Current Mission
-> "No PC? No Problem. Excuses don’t build dreams — discipline does."
-
+- 📱 Currently doing everything on my **phone** using Replit and GitHub mobile.
 ---
 
 ### 🛠️ Languages & Tools
@@ -51,6 +41,11 @@
 
 ---
 
+### 🚀 Current Mission
+> "No PC? No Problem. Excuses don’t build dreams — discipline does."
+
+---
+
 ### 🌐 Connect With Me
 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Praveenp_twt)
@@ -58,8 +53,3 @@
 
 ---
 
-
-
-### ⚡ Fun Fact
-> I may be coding on a phone, but my **vision is massive** 📱➡️🌍  
-Let’s keep building, one repo at a time 🚀
